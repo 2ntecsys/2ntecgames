@@ -1,0 +1,6 @@
+{
+  "name": "اشكال وظلال",
+  "description": "لعبة تعليمية ممتعة للأطفال لمطابقة أشكال وظلال الحيوانات والأشكال الهندسية والمجسمات مع أوراق ملونة وجرس تهنئة وكأس الفوز.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
